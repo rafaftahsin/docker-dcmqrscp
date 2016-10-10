@@ -1,5 +1,3 @@
-# docker-dcmqrscp
-
 Docker image for dcmqrscp
 -------------------------
 
